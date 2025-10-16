@@ -1,1 +1,54 @@
-test
+Déroulement normal de cas d'utilisation créer une carte électronique :
+Le client appuie sur le bouton créer
+Le client ajoute du texte
+Le client choisit un destinataire
+Le client appuie sur envoyer 
+
+
+Variante 1 : 
+
+Ce scénario reprend le scénario normal
+
+L'internaute s'inscrit sur le site avec login et mot de passe
+L'internaute est ajouté à la liste 
+
+Variante 2 authentification :
+
+Ce scénario reprend le scénario normal
+
+L'internaute se connecte avec login et mot de passe
+L'internaute appuie sur "se connecter"
+
+Variante 3 ajout photo :
+
+Ce scénario reprend le scénario normal
+
+Le client appuie sur le bouton "ajouter une photo"
+Le client choisit un fichier sur son ordinateur
+Le client appuie sur le bouton "visualiser"
+Le client appuie sur "ajouter"
+
+Variante 4 envoie au destinataire : 
+
+Ce scénario reprend le scénario normal
+
+Le client saisit un mail 
+Le client appuie sur "envoyer"
+
+Variante 5 ajout mélodie :
+
+Ce scénario reprend le scénario normal
+
+Le client appuie sur le bouton "ajouter une mélodie"
+Le client choisit un fichier sur son ordinateur
+Le client appuie sur le bouton "écouter"
+Le client appuie sur "ajouter"
+
+Variante 6 ajout vidéo :
+
+Ce scénario reprend le scénario normal
+
+Le client appuie sur le bouton "ajouter une vidéo"
+Le client choisit un fichier sur son ordinateur
+Le client appuie sur le bouton "visualiser"
+Le client appuie sur "ajouter"
