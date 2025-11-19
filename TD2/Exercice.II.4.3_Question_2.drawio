@@ -165,6 +165,12 @@
         <mxCell id="5vU50_E9-oIICjO2fOv1-59" value="accepter formation()" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="970" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5vU50_E9-oIICjO2fOv1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vU50_E9-oIICjO2fOv1-60" target="5vU50_E9-oIICjO2fOv1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vU50_E9-oIICjO2fOv1-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
