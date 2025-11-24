@@ -183,7 +183,7 @@
         <mxCell id="51" parent="49" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=left;verticalAlign=bottom;" value="0..*" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry" />
         </mxCell>
-        <mxCell id="52" edge="1" parent="1" source="27" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="33" value="Est transporté dans">
+        <mxCell id="52" edge="1" parent="1" source="27" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="33" value="Est rangé dans">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
